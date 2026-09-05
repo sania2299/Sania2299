@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sania 👋
 
-<!--
-**sania2299/Sania2299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Cybersecurity Graduate  
+📚 MSc Cyber Security with Artificial Intelligence Student  
+🔐 Interested in SOC, Cloud Security and GRC 
+💻 Building hands-on cybersecurity projects and labs  
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SOC & Incident Response
+- Cloud Security
+- Governance, Risk & Compliance
+- Penetration Testing
+- Phishing Analysis
+- Security Documentation
+
+## Tools & Technologies
+
+AWS • Linux • Python • Wireshark • Nessus • Git • Splunk • HTML • CSS
+
+## Featured Projects
+
+- AWS Cloud Security Lab
+- Phishing Email Analysis
+- Suspicious Login Investigation
+- GRC Risk Management Project
+- Penetration Testing Exam Project
+- Secure Login System
+
+## Currently Learning
+
+- Cloud Security
+- SOC Analysis
+- SIEM
