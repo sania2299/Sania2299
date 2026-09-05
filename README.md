@@ -1,6 +1,6 @@
 ## Hi, I'm Sania ✨
 
-🧠 BSc Cybersecurity Graduate and MSc Cyber Security with Artificial Intelligence Student  
+🧠 BSc Cybersecurity Graduate and MSc Cyber Security with Artificial Intelligence student  
 🖊️ Building hands-on projects in SOC, Cloud Security and GRC  
 🎥 Documenting practical cybersecurity labs and technical projects  
 📚 Learning more about security tools, cloud platforms and incident response  
