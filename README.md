@@ -5,7 +5,6 @@
 🔐 Interested in SOC, Cloud Security and GRC
 💻 Building hands-on cybersecurity projects and labs  
 
-
 ## 🌐 Socials:
 [LinkedIn](https://www.linkedin.com/in/sania-bokhari-828928262/)
 
